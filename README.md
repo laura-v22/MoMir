@@ -3,7 +3,7 @@ An interactive dashboard to monitor Piazza dei Miracoli in Pisa. Built with Pyth
 
 ## Requirements
 The following applications/libraries are required to run the dashboard:
-- Python (>= 3.8)
+- Python (>= 3.11)
 - base Python libraries: numpy
 - plotly Python library
 - dash Python library
