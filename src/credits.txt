@@ -1,0 +1,5 @@
+- for 'utils/id-factory.py':
+    https://community.plotly.com/t/how-do-we-repeat-element-id-in-multi-page-apps/41339/2
+
+- for 'assets/miracoli.jpg':
+    https://commons.wikimedia.org/w/index.php?curid=85422189
