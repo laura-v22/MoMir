@@ -300,7 +300,6 @@ def callFigureGantt(which):
     return figureGantt(
         which,
         S_LEVELLING_DATA,
-        PR_X,
         ERS_ASC,
         ERS_DES,
         ENV_ASC,
